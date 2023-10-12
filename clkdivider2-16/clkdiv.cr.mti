@@ -1,0 +1,15 @@
+{C:/Users/rockr/Desktop/maven/verilog practice/50day/clkdivider2-16/clkdiv_tb.v} {1 {vlog -work work -stats=none {C:/Users/rockr/Desktop/maven/verilog practice/50day/clkdivider2-16/clkdiv_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clkdiv_tb
+
+Top level modules:
+	clkdiv_tb
+
+} {} {}} {C:/Users/rockr/Desktop/maven/verilog practice/50day/clkdivider2-16/clkdiv.v} {1 {vlog -work work -stats=none {C:/Users/rockr/Desktop/maven/verilog practice/50day/clkdivider2-16/clkdiv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clockdivider
+
+Top level modules:
+	clockdivider
+
+} {} {}}

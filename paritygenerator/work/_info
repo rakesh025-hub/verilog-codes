@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/ring counter
+vparitygen_tb
+!s110 1695901193
+!i10b 1
+!s100 ?SJOTQ4M`>J[<MTI:Q@:72
+IPRlgEMU7J03EcCGz@ShZP2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/rtl/verilog practice/50day/paritygenerator
+w1695901183
+8C:/rtl/verilog practice/50day/paritygenerator/paritygen_tb.v
+FC:/rtl/verilog practice/50day/paritygenerator/paritygen_tb.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1695901193.000000
+!s107 C:/rtl/verilog practice/50day/paritygenerator/paritygen_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/paritygenerator/paritygen_tb.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vparitygenerator
+!s110 1695901192
+!i10b 1
+!s100 jN3m<H>m;4KJm=kKE]ONE0
+I?^gWzb>H]gVXF=mQ1<VAG0
+R0
+R1
+w1695900064
+8C:/rtl/verilog practice/50day/paritygenerator/paritygen.v
+FC:/rtl/verilog practice/50day/paritygenerator/paritygen.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1695901192.000000
+!s107 C:/rtl/verilog practice/50day/paritygenerator/paritygen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/paritygenerator/paritygen.v|
+!i113 1
+R3
+R4

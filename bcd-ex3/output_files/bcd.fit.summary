@@ -1,0 +1,11 @@
+Fitter Status : Successful - Tue Aug 15 17:14:01 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : bcd
+Top-level Entity Name : bcd
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 4 / 40 ( 10 % )
+Total pins : 9 / 30 ( 30 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
