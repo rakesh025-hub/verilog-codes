@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vbintoone
+Z0 !s110 1697467366
+!i10b 1
+!s100 R13S69[L``3JZhic1;>`U3
+IbZ0M[_@moPUfC;aRkFc=`3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/rtl/verilog practice/50day/bin to noe hot encoder
+w1697467358
+8C:/rtl/verilog practice/50day/bin to noe hot encoder/bintooneenc_tb.v
+FC:/rtl/verilog practice/50day/bin to noe hot encoder/bintooneenc_tb.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1697467366.000000
+!s107 C:/rtl/verilog practice/50day/bin to noe hot encoder/bintooneenc_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bin to noe hot encoder/bintooneenc_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbintoonehotenc
+R0
+!i10b 1
+!s100 o3fNCgBS7D@ho<8:>;SQ?0
+IH@h?bRS49QA:cT]OeIz7W1
+R1
+R2
+w1697466570
+8C:/rtl/verilog practice/50day/bin to noe hot encoder/bintonoehotenc.v
+FC:/rtl/verilog practice/50day/bin to noe hot encoder/bintonoehotenc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/verilog practice/50day/bin to noe hot encoder/bintonoehotenc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bin to noe hot encoder/bintonoehotenc.v|
+!i113 1
+R5
+R6
