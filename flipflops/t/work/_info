@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/flipflops/sr
+vtff
+!s110 1697688373
+!i10b 1
+!s100 el6WF_OOX[eT2`b^o9bZ@2
+I:[zedDC`Ge8MPd0iYY3010
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/rtl/verilog practice/50day/flipflops/t
+w1697688352
+8C:/rtl/verilog practice/50day/flipflops/t/tff.v
+FC:/rtl/verilog practice/50day/flipflops/t/tff.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1697688373.000000
+!s107 C:/rtl/verilog practice/50day/flipflops/t/tff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/flipflops/t/tff.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vtff_tb
+!s110 1697688374
+!i10b 1
+!s100 <6A`0OeL]l3Bg_`6P:^<02
+IfBzROn218N6B=QIbBR4722
+R0
+R1
+w1697688293
+8C:/rtl/verilog practice/50day/flipflops/t/tff_tb.v
+FC:/rtl/verilog practice/50day/flipflops/t/tff_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1697688374.000000
+!s107 C:/rtl/verilog practice/50day/flipflops/t/tff_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/flipflops/t/tff_tb.v|
+!i113 1
+R3
+R4

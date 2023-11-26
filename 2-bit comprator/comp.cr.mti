@@ -1,0 +1,15 @@
+{C:/rtl/verilog practice/50day/2-bit comprator/2-comp.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/2-bit comprator/2-comp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module two_bit_comparator
+
+Top level modules:
+	two_bit_comparator
+
+} {} {}} {C:/rtl/verilog practice/50day/2-bit comprator/2com_tb.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/2-bit comprator/2com_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module two_bit_comparator_tb
+
+Top level modules:
+	two_bit_comparator_tb
+
+} {} {}}

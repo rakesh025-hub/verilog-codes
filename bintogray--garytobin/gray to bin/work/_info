@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/bintogray--garytobin/bintogray
+vgraytobin
+!s110 1698851415
+!i10b 1
+!s100 bJAb[WYjKlQ8U?R`4ioFJ3
+I[^0z1z9@6SO5D67S@h;R83
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin
+w1698851409
+8C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin.v
+FC:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1698851414.000000
+!s107 C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vgraytobin_tb
+!s110 1698851414
+!i10b 1
+!s100 =aiQXCO=l_7mMZQEaVECU3
+IjD`;mX=lnTR08h0IgFf@i2
+R0
+R1
+w1698851353
+8C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin_tb.v
+FC:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bintogray--garytobin/gray to bin/graytobin_tb.v|
+!i113 1
+R4
+R5

@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/sipo
+vParallelInSerialOutShiftRegister
+Z0 !s110 1698761964
+!i10b 1
+!s100 A5FN?Ch1eF1_c5;b]J5di2
+I5a2NW1I<WV<CJ;j1QzQZ30
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso
+w1698761708
+8C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2.v
+FC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698761964.000000
+!s107 C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@parallel@in@serial@out@shift@register
+vpiso
+!s110 1698761577
+!i10b 1
+!s100 `:KR1aRjS=h8JgdN=O62A1
+IFP^OGh9:SSA2;KG1zoI6G1
+R1
+R2
+w1698761552
+Z7 8C:\rtl\verilog practice\50day\shif registers(siso,sipo..etc)\piso\piso.v
+Z8 FC:\rtl\verilog practice\50day\shif registers(siso,sipo..etc)\piso\piso.v
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1698761577.000000
+Z9 !s107 C:\rtl\verilog practice\50day\shif registers(siso,sipo..etc)\piso\piso.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:\rtl\verilog practice\50day\shif registers(siso,sipo..etc)\piso\piso.v|
+!i113 1
+R5
+R6
+vPISO_shift_register
+Z11 !s110 1698762777
+!i10b 1
+!s100 ESdFLUA7o32ABj_hNSGWI0
+IHP1hiGf0=glP_EY3iJj^V3
+R1
+R2
+w1698762724
+R7
+R8
+L0 57
+R3
+r1
+!s85 0
+31
+!s108 1698762776.000000
+R9
+R10
+!i113 1
+R5
+R6
+n@p@i@s@o_shift_register
+vpiso_tb
+R11
+!i10b 1
+!s100 ??jFHTohH@Olhf06<`L?h3
+I<DEUX5OBDFm1>Cc[ng`7H2
+R1
+R2
+w1698761320
+8C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso_tb.v
+FC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1698762777.000000
+!s107 C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso_tb.v|
+!i113 1
+R5
+R6
+vShiftRegisterTest
+R0
+!i10b 1
+!s100 @nVJEY;8U4ESDPO1?AGoP0
+I>1YH6JY8DQ]5[Mc[ER=4:1
+R1
+R2
+w1698761960
+8C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2_tb.v
+FC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/piso/piso2_tb.v|
+!i113 1
+R5
+R6
+n@shift@register@test

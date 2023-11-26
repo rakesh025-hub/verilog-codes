@@ -10,4 +10,6 @@ assign Cout=c[16];
 
 assign sum[15:0]= (A[15:0] ^ B[15:0]) ^ c[15:0];
 assign c[16:0]= (A[15:0] & B[15:0]) | (A[15:0] ^ B[15:0]) & c[15:0];
+/* assign sum = a ^ b ^ c;
+  assign carry = (a & b) | (b & c) | (a & c);*/
 endmodule

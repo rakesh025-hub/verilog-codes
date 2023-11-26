@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/shif registers(siso,sipo..etc)/pipo
+vbintogray
+Z0 !s110 1698851288
+!i10b 1
+!s100 :2EQ6X@5cW23VU[S9GNgG2
+Inh>^CQn?MkJmESjdGSeJD2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/rtl/verilog practice/50day/bintogray--garytobin/bintogray
+w1698849962
+8C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v
+FC:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698851288.000000
+!s107 C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbintogray_tb
+R0
+!i10b 1
+!s100 V:bnYbP;U9efY7Kk@U^CQ0
+I4z0JM@748@VG1B5O9=FV?2
+R1
+R2
+w1698849816
+8C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v
+FC:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,15 @@
+{C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bintogray
+
+Top level modules:
+	bintogray
+
+} {} {}} {C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/bintogray--garytobin/bintogray/bintogray_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bintogray_tb
+
+Top level modules:
+	bintogray_tb
+
+} {} {}}

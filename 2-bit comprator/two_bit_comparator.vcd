@@ -1,0 +1,107 @@
+$date
+	Thu Oct 19 12:33:59 2023
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module two_bit_comparator_tb $end
+$var reg 2 ! a [1:0] $end
+$var reg 2 " b [1:0] $end
+$var wire 1 # eq $end
+$var wire 1 $ lt $end
+$var wire 1 % gt $end
+
+$scope module uut $end
+$var wire 1 & a [1] $end
+$var wire 1 ' a [0] $end
+$var wire 1 ( b [1] $end
+$var wire 1 ) b [0] $end
+$var reg 1 * eq $end
+$var reg 1 + lt $end
+$var reg 1 , gt $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+1*
+0+
+0,
+1#
+0$
+0%
+0)
+0(
+0'
+0&
+$end
+#10
+b1 !
+1'
+0*
+1,
+0#
+1%
+#20
+b10 !
+0'
+1&
+#30
+b11 !
+1'
+#40
+b0 !
+b1 "
+1)
+0'
+0&
+1+
+0,
+1$
+0%
+#50
+b1 !
+1'
+1*
+0+
+1#
+0$
+#60
+b10 !
+0'
+1&
+0*
+1,
+0#
+1%
+#70
+b11 !
+1'
+#80
+b0 !
+b10 "
+0)
+1(
+0'
+0&
+1+
+0,
+1$
+0%
+#90
+b1 !
+1'
+#100
+b10 !
+0'
+1&
+1*
+0+
+1#
+0$

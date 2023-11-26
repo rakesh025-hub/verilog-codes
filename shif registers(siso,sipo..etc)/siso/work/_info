@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/n-bitcomparator
+vsisoreg
+Z0 !s110 1698487477
+!i10b 1
+!s100 ml9>e7j:IXk3AY93ICLZb2
+I<>MZZ0XH4T<Ii]b>7QzA30
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/rtl/verilog practice/50day/sisoregister
+w1698484833
+8C:/rtl/verilog practice/50day/sisoregister/sisoreg.v
+FC:/rtl/verilog practice/50day/sisoregister/sisoreg.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698487477.000000
+!s107 C:/rtl/verilog practice/50day/sisoregister/sisoreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/sisoregister/sisoreg.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsisoreg_tb
+R0
+!i10b 1
+!s100 Nj3F[YEUQ5jOo0zZ^G8=31
+IC_`M29@WZQ@So3XX[?@nN3
+R1
+R2
+w1698487441
+8C:/rtl/verilog practice/50day/sisoregister/siso_tb.v
+FC:/rtl/verilog practice/50day/sisoregister/siso_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/verilog practice/50day/sisoregister/siso_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/sisoregister/siso_tb.v|
+!i113 1
+R5
+R6

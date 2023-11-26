@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/rtl/verilog practice/50day/flipflops/d
+vbcdcounter
+Z0 !s110 1697861254
+!i10b 1
+!s100 8V?Q;c?CD@`d=ODYYko`V1
+IfH?=cTeL48_oWH4929=S62
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/rtl/verilog practice/50day/4bitsynchbcdcounter
+w1697861011
+8C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bdcdcoun.v
+FC:/rtl/verilog practice/50day/4bitsynchbcdcounter/bdcdcoun.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1697861254.000000
+!s107 C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bdcdcoun.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bdcdcoun.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbcdcounter_tb
+R0
+!i10b 1
+!s100 NNj_EYfh5gZOB`53]cm4`3
+I1A^`3Zca]LhHHQez:CN:e1
+R1
+R2
+w1697861250
+8C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bcdcounter_tb.v
+FC:/rtl/verilog practice/50day/4bitsynchbcdcounter/bcdcounter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bcdcounter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/rtl/verilog practice/50day/4bitsynchbcdcounter/bcdcounter_tb.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,15 @@
+{C:/rtl/verilog practice/50day/flipflops/sr/srff.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/flipflops/sr/srff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module srff
+
+Top level modules:
+	srff
+
+} {} {}} {C:/rtl/verilog practice/50day/flipflops/sr/srff_tb.v} {1 {vlog -work work -stats=none {C:/rtl/verilog practice/50day/flipflops/sr/srff_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module srff_tb
+
+Top level modules:
+	srff_tb
+
+} {} {}}
