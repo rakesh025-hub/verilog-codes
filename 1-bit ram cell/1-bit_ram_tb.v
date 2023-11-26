@@ -1,4 +1,4 @@
-module onebitram_tb();
+module onebitram_tb1();
 
 reg write_enable;
 reg write_data;
